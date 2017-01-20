@@ -1,1 +1,1 @@
-"This Project scrapes Information about Lagos Schools for relearn.n" 
+"This Project scrapes Information about Lagos Schools for relearn.ng. " 
